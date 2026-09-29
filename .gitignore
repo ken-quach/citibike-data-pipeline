@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables / credentials
+.env
+
+# Local pipeline data
+data/raw/*
+
+# Runtime logs
+logs/*.log
+
+# macOS
+.DS_Store
